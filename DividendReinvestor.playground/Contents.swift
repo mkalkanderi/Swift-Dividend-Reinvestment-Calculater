@@ -3,7 +3,8 @@ import UIKit
 // Dividend reinvestment(+montlhy dopisits) calculater.
 /*-----------------------------------------------*/
 
-// intitial constants required to simulater
+// intitial constants required to simulater.
+// CHANGE THESE VARIABLES ACCORDING TO YOUR CHOICE OF STOCK
 let stockPrice = 27
 let monthlyDiv = 0.109
 
